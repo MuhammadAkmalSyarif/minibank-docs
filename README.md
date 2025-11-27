@@ -39,9 +39,12 @@ Pencatatan Transaksi: Setelah konfirmasi keberhasilan dari Payment Gateway, stat
 
 Respon ke Frontend: Core Banking Service mengirimkan notifikasi status transaksi (berhasil/gagal) dan bukti transaksi (e-receipt) kembali ke Frontend.
 
-
-3. Team Member                                                                                                                                                                                                          1.Muhammad Naufal Fauzan
+3. Team Member
+   1.Muhammad Naufal Fauza1n
+     https://www.linkedin.com/in/naufal-fauzan-121b80248/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
    2.Muhammad Akmal Syarif
-     https://www.linkedin.com/in/muhammad-akmal-syarif-96192b396/
+     https://www.linkedin.com/in/muhammad-akmal-syarif-063898396/
    3.Siti Tahtia Ainun Zahra
+     https://www.linkedin.com/in/ainun-zahra-73a877392?utm_source=share_via&utm_content=profile&utm_medium=member_android
    4.Rackisha Dhia Ezelly Lathief
+     https://www.linkedin.com/in/rackishaaa-e-511886321/
